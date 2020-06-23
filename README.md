@@ -14,7 +14,7 @@ Nodejs-Api-Server BY  DIALROCK 360
 
 ### About Template primeface
 ---
- SPRINGSTRAP is a J2EE app based on Spring boot security and primface model 
+ SPRINGSTRNodejs-Api-Server AP is a node js app based on  sequelise 
 :construction:
 
  
