@@ -14,7 +14,7 @@ Nodejs-Api-Server BY  DIALROCK 360
 
 ### About Template primeface
 ---
- SPRINGSTRNodejs-Api-Server AP is a node js app based on  sequelise 
+ Nodejs-Api-Server AP is a node js app based on  sequelise 
 :construction:
 
  
